@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ranjan-Sabu
 - 👀 I completed React.js
 - 🌱 I’m currently learning Python Django
-- 
--📫 How to reach me ranjansabu6@gmail.com
+- 📫 How to reach me ranjansabu6@gmail.com
 
 
 <!---
